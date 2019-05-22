@@ -3,7 +3,7 @@ DISC Personality Profile
 
 ## How to use
 "DISC Worksheet.xlsm" is and excel file with a macro for calculate the centroid of a polygon.
-Fill, for each line of test table choising the score from 1 to 4 (do not repeat the same score on the same line).
+Fill, each line of test table choising the score from 1 to 4 (do not repeat the same score on the same line).
 
 You will find the DISC score at the end of table and the chart.
 
